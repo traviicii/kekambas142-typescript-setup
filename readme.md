@@ -110,6 +110,9 @@ npx webpack
 ### Install liveserver
 This package will prevent us from having to run ```npx webpack``` to rebundle every time we make changes to our project
 
+Live-server Documentation
+https://www.npmjs.com/package/live-server?authuser=0
+
 ```bash
 npm install live-server
 ```
