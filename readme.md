@@ -2,11 +2,13 @@
 ---
 ## Run installs
 ### Initialize package.json
+
 ```bash
 npm init
 ```
 
 ### Install TypeScript
+
 ```bash
 npm install typescript --save-dev
 ```
@@ -33,6 +35,7 @@ tsc --init
 
 ### Inside of tsconfig
 Ensure that you have these configuration settings enabled
+
 ```
 /* Modules */
     "module": "Node16"
@@ -82,6 +85,7 @@ module.exports = {
 
 ### Create new src driectory, with an index.js inside
 #### Current File Structure
+
 ```
 dist
     - index.html
@@ -94,6 +98,7 @@ webpack.config.js
 
 ### Run npx webpack to create bundle.js
 Bundles and builds bundle.js file within dist directory
+
 ```bash
 npx webpack
 ```
@@ -120,6 +125,7 @@ npm install live-server
 ### Install npm-run-all
 npm-run-all Documentation
 https://www.npmjs.com/package/npm-run-all?authuser=0
+
 ```bash
 npm install npm-run-all --save-dev
 ```
