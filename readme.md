@@ -1,17 +1,17 @@
 # Wideget Project Setup
 ---
 ## Run installs
-#### Initialize package.json
+### Initialize package.json
 ```bash
 npm init
 ```
 
-#### Install TypeScript
+### Install TypeScript
 ```bash
 npm install typescript --save-dev
 ```
 
-#### Install webpack, webpack-cli, and ts-loader
+### Install webpack, webpack-cli, and ts-loader
 WebPack Documentation
 https://www.npmjs.com/package/webpack?authuser=0
 https://webpack.js.org/concepts/
@@ -22,12 +22,13 @@ https://www.npmjs.com/package/webpack-cli?authuser=0
 npm install --save-dev webpack webpack-cli ts-loader
 ```
 
-#### Setup tsconfig
+### Setup tsconfig
 ```bash
 tsc --init
 ```
 
-### In tsconfig
+### Inside of tsconfig
+Ensure that you have these configuration settings enabled
 ```
 /* Modules */
     "module": "Node16"
