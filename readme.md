@@ -18,6 +18,10 @@ https://webpack.js.org/concepts/
 
 WebPack CLI Documentation
 https://www.npmjs.com/package/webpack-cli?authuser=0
+
+TS-Loader Documentation
+https://www.npmjs.com/package/ts-loader/v/4.4.2
+
 ```
 npm install --save-dev webpack webpack-cli ts-loader
 ```
