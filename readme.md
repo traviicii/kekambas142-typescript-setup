@@ -1,4 +1,4 @@
-# Wideget Project Setup
+# Widget Project Setup
 ---
 ## Run installs
 ### Initialize package.json
