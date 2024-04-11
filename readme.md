@@ -83,7 +83,7 @@ module.exports = {
 };
 ```
 
-### Create new src driectory, with an index.js inside
+### Create new src driectory, with an index.ts inside
 #### Current File Structure
 
 ```
