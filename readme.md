@@ -124,6 +124,7 @@ npm install live-server
 ```
 
 ### Install npm-run-all
+A CLI tool to run multiple npm-scripts in parallel
 npm-run-all Documentation
 https://www.npmjs.com/package/npm-run-all?authuser=0
 
