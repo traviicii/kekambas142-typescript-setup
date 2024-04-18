@@ -1,4 +1,5 @@
-# Widget Project Setup
+# React + Vite Project Setup
+Made during kekambas-142 cohort. Widget Project Week 8 Day 4.
 ---
 ## Run installs
 ### Initialize package.json
